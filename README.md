@@ -3,7 +3,7 @@
 
 Um ou dois parágrafos sobre seu projeto faz e o que ele faz.
 
-![](flok%20-%20Copia.png)
+![](guild.png)
 
 ## Instalação
 
